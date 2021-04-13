@@ -1,18 +1,21 @@
 
 .logo{
     padding: 1px;
-    width: 7cm;
+width: 90%;
 }
 
 .categoria1{
-    margin-left: 1cm;
+    padding: 20px;
+    width: auto;
    
 }
 .categoria2{
-    margin-left: 3cm;
+    padding: 20px;
+    width: auto;
 }
 .login{
-    margin-left: 2cm;
+    padding: 20px;
+    width: auto;
 }
 .redes{
     margin-left: 4cm;
