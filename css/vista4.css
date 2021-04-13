@@ -1,0 +1,56 @@
+.editar{
+    margin-left: 5cm;
+    font-family: bubblegum;
+    color: #d57710;
+    background: white;
+    border: 0;
+}
+.eliminar{
+    margin-left: 5cm;
+    font-family: bubblegum;
+    color: #d57710;
+    background: white;
+    border: 0;
+}
+h5{
+    color: #d57710;
+    font-family: bubblegum;
+    margin-top: 3%;
+    margin-left: 10%;
+    font-size: 2.5rem;
+}
+.fondo{
+    background:white ;
+    border: 0;
+    text-decoration: none;
+    color: #d57710;
+}
+.redes{
+    margin-left: 4cm;
+    
+}
+.mt-6{
+    margin-top: 4%;
+}
+.cerrar{
+    width: 300px;
+    display: flex;
+    justify-content: end;
+    margin-top: 15px;
+}
+.crear{
+    margin-top: 15px;
+    width: 200px;
+    display: flex;
+    justify-content: end;
+
+}
+.boton{
+    border: 0;
+    background: white;
+}
+
+@font-face{
+    font-family: bubblegum;
+    src: url(../fuentes/Bubblegum.ttf);
+}

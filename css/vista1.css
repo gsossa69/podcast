@@ -1,0 +1,39 @@
+
+.logo{
+    padding: 1px;
+    width: 7cm;
+}
+
+.categoria1{
+    margin-left: 3cm;
+   
+}
+.categoria2{
+    margin-left: 3cm;
+}
+.login{
+    margin-left: 7cm;
+}
+.redes{
+    margin-left: 4cm;
+    
+}
+.productos1{
+    margin: 40px;
+    margin-left: 3cm;
+}
+.productos2{
+    margin: 40px;
+    margin-left: 3cm;
+    margin-top: 3.6cm;
+}
+.productos3{
+    margin: 40px;
+    margin-left: 3cm;
+    margin-top: 6cm;
+}
+
+.fondo{
+    background:white ;
+    border: 0;
+}

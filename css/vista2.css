@@ -1,0 +1,84 @@
+.logo{
+    padding: 1px;
+width: 90%;
+}
+
+.categoria1{
+    padding: 20px;
+    width: auto;
+   
+}
+.categoria2{
+    padding: 20px;
+    width: auto;
+}
+.login{
+    padding: 20px;
+    width: auto;
+}
+.redes{
+    margin-left: 4cm;
+    
+}
+
+
+.fondo{
+    background:white ;
+    border: 0;
+}
+.productos1{
+    margin-left: 10%;
+    width:85%;
+
+}
+.flecha{
+    width: 50px;
+    margin-left:  4cm;
+    
+    
+}
+.señal{
+    width: 100px;
+    margin-left: 7cm;
+}
+
+.titulo{
+    font-family: bubblegum;
+    color: #d57710;
+    font-size: 5rem;
+    margin: 0% 5% 5%;
+}
+.precio{
+    font-family: bubblegum;
+    color: #d57710;
+    font-size: 2rem;
+    margin: 0% 5% 5%;
+}
+.descripcion{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    margin: 0% 5% 5%;
+    
+}
+.boton{
+    border: 0;
+    background: white;
+}
+.mt-6{
+    margin-top: 1%;
+}
+.carrito{
+    width: 200px;
+    margin-left: 12cm;
+}
+.bg-light {
+     background-color: white; 
+}
+.tamaño{
+    margin-right: 150px;
+}
+@font-face{
+    font-family: bubblegum;
+    src: url(../fuentes/Bubblegum.ttf);
+}
+

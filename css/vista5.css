@@ -1,0 +1,46 @@
+.redes{
+    margin-left: 4cm;
+    
+}
+.mt-6{
+    margin-top: 9%;
+}
+.fondo{
+    background:white ;
+    border: 0;
+}
+.cerrar{
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 15px;
+}
+.enviar{
+    width: 5cm;
+   
+    margin-top: 1cm;
+    
+}
+.producto{
+    margin-left: 40%;
+    margin-top: 15px;
+    font-family: bubblegum;
+    color: #d57710;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.descripcion{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-left: 40%;
+}
+.boton{
+    border: 0;
+    background: white;
+}
+
+@font-face{
+    font-family: bubblegum;
+    src: url(../fuentes/Bubblegum.ttf);
+}
